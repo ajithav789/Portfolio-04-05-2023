@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio-04-05-2023/static/css/main.8ac90f73.css",
+    "main.js": "/Portfolio-04-05-2023/static/js/main.83ad6ad4.js",
+    "static/media/React-icon.svg.png": "/Portfolio-04-05-2023/static/media/React-icon.svg.1e5639fdfd7c944093d3.png",
+    "static/media/Typescript_logo_2020.svg.png": "/Portfolio-04-05-2023/static/media/Typescript_logo_2020.svg.52ea0bc40ba11d507e7d.png",
+    "static/media/Node.js_logo.svg": "/Portfolio-04-05-2023/static/media/Node.js_logo.dd47e26ed1d7dddf018e5cbffc40f76d.svg",
+    "static/media/Amazon_Web_Services_Logo.svg": "/Portfolio-04-05-2023/static/media/Amazon_Web_Services_Logo.cc38dbe9487d55943d42132de41bbf53.svg",
+    "static/media/layered-waves-haikei.svg": "/Portfolio-04-05-2023/static/media/layered-waves-haikei.1ef55d4bdbc60b625f77.svg",
+    "static/media/github.svg": "/Portfolio-04-05-2023/static/media/github.566c7bedaf3ffffa06be08bd6063eca1.svg",
+    "static/media/square-instagram.svg": "/Portfolio-04-05-2023/static/media/square-instagram.07532950edb64c684806e684e1543010.svg",
+    "static/media/Git_icon.svg": "/Portfolio-04-05-2023/static/media/Git_icon.29ee81f3816dc8c467d2fe7c26ba1f4c.svg",
+    "index.html": "/Portfolio-04-05-2023/index.html",
+    "static/media/linkedin.svg": "/Portfolio-04-05-2023/static/media/linkedin.e6caf06bea36e8c1fd7545706cd71c86.svg",
+    "static/media/envelope-solid.svg": "/Portfolio-04-05-2023/static/media/envelope-solid.a9a8c84ad6d43bc769ea7a087ac4c76b.svg"
+  },
+  "entrypoints": [
+    "static/css/main.8ac90f73.css",
+    "static/js/main.83ad6ad4.js"
+  ]
+}
